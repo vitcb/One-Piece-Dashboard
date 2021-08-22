@@ -17,7 +17,7 @@ What's your favorite One Piece episode? I used a highlight table chart to analyz
 
 ## Data Analysis
 
-A **Summarized View** to easily identify the most popular (and least popular) seasons and episodes from a list of nearly **1000** episodes
+A **Summarized View** to easily identify the most popular (and least popular) seasons and episodes from a list of **1000** episodes
 
 ![image](https://user-images.githubusercontent.com/14616032/130365769-98826e8e-3a2d-44fe-89ef-6317cda3da6c.png)   
 ![image](https://user-images.githubusercontent.com/14616032/130365863-42c2cadd-ceb8-4e26-8dcd-118ddd44f35a.png)
