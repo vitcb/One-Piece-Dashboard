@@ -1,6 +1,7 @@
-# One-Piece-Dashboard
+# One Piece Dashboard
 What's your favorite One Piece episode? I used a highlight table chart to analyze the imdb rating of each episode of the saga since its TV debut in 1999.
 
+⭐ Star if you like the project, it motivates me a lot!
 
 ![image](https://user-images.githubusercontent.com/14616032/130365087-9199ee1f-46ae-45ab-a4a9-6b0bf762d87d.png)
 
@@ -12,9 +13,9 @@ What's your favorite One Piece episode? I used a highlight table chart to analyz
 
 ## Data Analysis
 
-* Which is the most popular season?
+A **Summarized View** to easily identify the most popular (and least popular) seasons and episodes from a list of nearly **1000** episodes
 
-  ![image](https://user-images.githubusercontent.com/14616032/130365769-98826e8e-3a2d-44fe-89ef-6317cda3da6c.png)
+![image](https://user-images.githubusercontent.com/14616032/130365769-98826e8e-3a2d-44fe-89ef-6317cda3da6c.png)   
+![image](https://user-images.githubusercontent.com/14616032/130365863-42c2cadd-ceb8-4e26-8dcd-118ddd44f35a.png)
+![image](https://user-images.githubusercontent.com/14616032/130365891-a4f87a25-6098-4f1b-9ba9-0f9827edec0f.png)
 
-
-* 
