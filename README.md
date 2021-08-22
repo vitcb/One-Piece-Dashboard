@@ -6,6 +6,10 @@ What's your favorite One Piece episode? I used a highlight table chart to analyz
 ![image](https://user-images.githubusercontent.com/14616032/130365087-9199ee1f-46ae-45ab-a4a9-6b0bf762d87d.png)
 
 
+## Tableau packaged workbook file
+* Use the IMDB_ONE_PIECE.twbx file
+* Go to my Tableau Public Page following the link https://public.tableau.com/views/IMDB_ONE_PIECE/Dashboard?:language=it-IT&:display_count=n&:origin=viz_share_link
+
 ## Dataset
 * Use the IMDB_ONEPIECE_DATASET.xlsx file
 * go to https://www.imdb.com/interfaces/. Subsets of IMDb data are available for access to customers for personal and non-commercial use. You can hold local copies of this data, and it is subject to our terms and conditions. Please refer to the Non-Commercial Licensing and copyright/license and verify compliance.The dataset files can be accessed and downloaded from https://datasets.imdbws.com/. The data is refreshed daily.
