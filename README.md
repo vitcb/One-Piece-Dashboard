@@ -1,8 +1,9 @@
+
+⭐ Star if you like the project, it motivates me a lot!
+
 # One Piece Dashboard
 What's your favorite One Piece episode? <br>
 I used a highlight table chart to analyze the IMDb rating of each episode of the saga since its TV debut in 1999.
-
-⭐ Star if you like the project, it motivates me a lot!
 
 ![image](https://user-images.githubusercontent.com/14616032/130365087-9199ee1f-46ae-45ab-a4a9-6b0bf762d87d.png)
 
