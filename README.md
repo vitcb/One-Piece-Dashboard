@@ -1,5 +1,5 @@
 
-⭐ Star if you like the project, it motivates me a lot! <br/>
+⭐ Star if you like the project <br/>
 
 # One Piece Dashboard
 What's your favorite One Piece episode? <br>
